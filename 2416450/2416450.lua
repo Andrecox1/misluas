@@ -1,0 +1,20 @@
+-- 2416450's Lua and Manifest Created by Hubcap Manifest
+-- MOUSE: P.I. For Hire
+-- Created: April 16, 2026 at 11:18:37 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 2
+-- Total DLCs: 1 (1 excluded)
+
+-- MAIN APPLICATION
+addappid(2416450, 1, "56df9203dd3706f1816684fd80aec6fd14bacaf541f8274f7d84eb9ae924b04e") -- MOUSE: P.I. For Hire
+-- MAIN APP DEPOTS
+addappid(2416451, 1, "c52f8369321c8357293962eacf7c7f416c2ea912c3d2640703880a12c964732a") -- Depot 2416451
+setManifestid(2416451, "4241982674025711979", 10558565115)
+-- DLCS WITH DEDICATED DEPOTS
+-- MOUSE P.I. For Hire Comic Book (AppID: 3879490)
+addappid(3879490)
+addappid(3879491, 1, "a609219532d6690630d1cccd2eb190817cca2d15d8380c0d3ba2bb1d91108f67") -- MOUSE P.I. For Hire Comic Book - Depot 3879491
+setManifestid(3879491, "6434545354655347775", 6269067)
+-- EXCLUDED DLCS:
+-- UNRELEASED DLCS (COMMENTED OUT)
+-- addappid(3912890) -- DLC 3912890 (unreleased)
