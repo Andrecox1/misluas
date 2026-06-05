@@ -1,6 +1,6 @@
 -- 3768760's Lua and Manifest Created by Hubcap Manifest
 -- 007 First Light
--- Created: June 02, 2026 at 10:11:03 EDT
+-- Created: June 04, 2026 at 10:02:52 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 2
 -- Total DLCs: 21
@@ -10,10 +10,10 @@
 addappid(3768760, 1, "6f7c66b16f0ee1cfe2e337a85cf54359c812b65f322a21fbd1c9725197e60062") -- 007 First Light
 -- MAIN APP DEPOTS
 addappid(3768761, 1, "8284c5e8921ec5acbe53f4d45af0260905841dc698ca179dd218ce5a2657ef09") -- Depot 3768761
---setManifestid(3768761, "1912132642781055460", 57175422308)
+setManifestid(3768761, "5087019708469335837", 57177632288)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
---setManifestid(228989, "3514306556860204959", 39590283)
+setManifestid(228989, "3514306556860204959", 39590283)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(3950810) -- 007 First Light - Gleaming Earphones (Gadget Skin)
 addappid(3950820) -- 007 First Light - Gleaming Lighter (Gadget Skin)
