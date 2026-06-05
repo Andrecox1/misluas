@@ -1,7 +1,7 @@
--- 2651280's Lua and Manifest Created by Morrenus
+-- 2651280's Lua and Manifest Created by Hubcap Manifest
 -- Marvel's Spider-Man 2
 -- Created: September 29, 2025 at 23:50:44 EDT
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 16
 -- Total DLCs: 2
 -- Shared Depots: 1
