@@ -1,7 +1,7 @@
--- 311210's Lua and Manifest Created by Morrenus
+-- 311210's Lua and Manifest Created by Hubcap Manifest
 -- Call of Duty: Black Ops III
 -- Created: February 19, 2026 at 16:54:12 EST
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 444
 -- Total DLCs: 26
 -- Shared Depots: 2
