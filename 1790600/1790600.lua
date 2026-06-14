@@ -1,7 +1,7 @@
--- 1790600's Lua and Manifest Created by Morrenus
+-- 1790600's Lua and Manifest Created by Hubcap Manifest
 -- DRAGON BALL: Sparking! ZERO
--- Created: February 06, 2026 at 06:58:25 EST
--- Website: https://manifest.morrenus.xyz/
+-- Created: April 21, 2026 at 06:38:17 EDT
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 5
 -- Total DLCs: 13
 -- Shared Depots: 2
@@ -11,7 +11,7 @@ addappid(1790600, 1, "5c8b5e47bb9da92fe0a31a0d56554bb62851cb9f846cc5f89fac68501d
 addtoken(1790600, "4807984869702339794")
 -- MAIN APP DEPOTS
 addappid(1790601, 1, "0721a07eb97ba7b4e59e31606ae9f0d67c66309cc467c5da1aa79a924c34e7d8") -- Depot 1790601
---setManifestid(1790601, "7463464431421101707", 30636861270)
+--setManifestid(1790601, "4296220909017956466", 30605034480)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 --setManifestid(228989, "3514306556860204959", 39590283)
