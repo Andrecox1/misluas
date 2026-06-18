@@ -1,7 +1,7 @@
--- 242700's Lua and Manifest Created by Morrenus
+-- 242700's Lua and Manifest Created by Hubcap Manifest
 -- Injustice: Gods Among Us Ultimate Edition
 -- Created: September 29, 2025 at 19:14:54 EDT
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 5
 -- Total DLCs: 0
 -- Shared Depots: 4
