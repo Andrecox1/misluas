@@ -1,16 +1,16 @@
 -- 2483190's Lua and Manifest Created by Hubcap Manifest
 -- Forza Horizon 6
--- Created: June 16, 2026 at 19:47:10 EDT
+-- Created: June 18, 2026 at 13:01:24 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 3
--- Total DLCs: 16 (3 excluded)
+-- Total DLCs: 17 (3 excluded)
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
 addappid(2483190, 1, "bca2f0f9973d929c2c6bae884058b8bf7934e9ecc8ff34d584450dfbb3215040") -- Forza Horizon 6
 -- MAIN APP DEPOTS
 addappid(2483191, 1, "f2a09f0a31b4df681ec0d2d572f368dfa4cd6c37ae67ebdfd591cfbe1334fcd9") -- Depot 2483191
---setManifestid(2483191, "2737887849937269827", 167126579000)
+--setManifestid(2483191, "2764632954154379576", 167126430268)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 --setManifestid(228989, "3514306556860204959", 39590283)
@@ -27,6 +27,7 @@ addappid(4439800) -- Forza Horizon 6 1990 Nissan 12 Skyline GT-R (BNR32 Gr.A) JT
 addappid(4439810) -- Forza Horizon 6 2024 Koenigsegg Gemera
 addappid(4439820) -- Forza Horizon 6 1972 Datsun 269 Attacking the Clock Racing 240Z All Carbon Hill Climb Beast
 addappid(4439830) -- Forza Horizon 6 2008 Honda Civic Type R (FD2)
+addappid(4439840) -- Forza Horizon 6 2023 Audi R8 Coup V10 GT RWD
 addappid(4440380) -- Forza Horizon 6 VIP Membership
 addappid(4444140) -- Forza Horizon 6 TBDS2
 addappid(4444150) -- Forza Horizon 6 1962 Peel P50 Trolli Edition
