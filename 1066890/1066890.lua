@@ -1,16 +1,16 @@
 -- 1066890's Lua and Manifest Created by Hubcap Manifest
 -- Automobilista 2
--- Created: June 13, 2026 at 15:57:33 EDT
+-- Created: June 18, 2026 at 09:10:14 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
--- Total DLCs: 31
+-- Total DLCs: 33
 -- Shared Depots: 3
 
 -- MAIN APPLICATION
 addappid(1066890, 1, "a1ecf0fa8dda29914e48d578e094cd46ba18f823468c088c586523349f68e617") -- Automobilista 2
 -- MAIN APP DEPOTS
 addappid(1066891, 1, "d6f49d09d5511c95e9e8ea45456deb337c87a07d9df1474f781f70dcf3bfae72") -- Automobilista 2 Content
---setManifestid(1066891, "468134427469744620", 151620725505)
+--setManifestid(1066891, "752737521700876180", 151742057227)
 -- SHARED DEPOTS (from other apps)
 addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
 --setManifestid(228984, "2547553897526095397", 13742505)
@@ -50,3 +50,5 @@ addappid(3895690) -- Automobilista 2 - Nrburgring 2025
 addappid(4044660) -- Automobilista 2 - Historical Endurance Pack Pt1
 addappid(4044670) -- Automobilista 2 - Historical Track Pack Pt3
 addappid(4256590) -- Automobilista 2 - Supercars Pack Pt2
+addappid(4674610) -- Automobilista 2 - Historical Track Pack Pt4
+addappid(4674620) -- Automobilista 2 - Hungaroring
