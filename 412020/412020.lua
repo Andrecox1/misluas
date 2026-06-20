@@ -1,7 +1,7 @@
--- 412020's Lua and Manifest Created by Morrenus
+-- 412020's Lua and Manifest Created by Hubcap Manifest
 -- Metro Exodus
 -- Created: September 30, 2025 at 00:33:38 EDT
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 10
 -- Total DLCs: 5
 -- Shared Depots: 2
