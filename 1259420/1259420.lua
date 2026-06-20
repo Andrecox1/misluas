@@ -1,7 +1,7 @@
--- 1259420's Lua and Manifest Created by Morrenus
+-- 1259420's Lua and Manifest Created by Hubcap Manifest
 -- Days Gone
 -- Created: March 12, 2026 at 11:30:55 EDT
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 3
 -- Total DLCs: 1
 -- Shared Depots: 2
