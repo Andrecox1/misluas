@@ -1,6 +1,6 @@
 -- 1066890's Lua and Manifest Created by Hubcap Manifest
 -- Automobilista 2
--- Created: June 18, 2026 at 09:10:14 EDT
+-- Created: June 19, 2026 at 08:01:55 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
 -- Total DLCs: 33
@@ -10,7 +10,7 @@
 addappid(1066890, 1, "a1ecf0fa8dda29914e48d578e094cd46ba18f823468c088c586523349f68e617") -- Automobilista 2
 -- MAIN APP DEPOTS
 addappid(1066891, 1, "d6f49d09d5511c95e9e8ea45456deb337c87a07d9df1474f781f70dcf3bfae72") -- Automobilista 2 Content
---setManifestid(1066891, "752737521700876180", 151742057227)
+--setManifestid(1066891, "6772278102396182964", 151477915899)
 -- SHARED DEPOTS (from other apps)
 addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
 --setManifestid(228984, "2547553897526095397", 13742505)
