@@ -1,6 +1,6 @@
 -- 2416450's Lua and Manifest Created by Hubcap Manifest
 -- MOUSE: P.I. For Hire
--- Created: June 01, 2026 at 20:18:52 EDT
+-- Created: June 18, 2026 at 00:09:27 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
 -- Total DLCs: 1 (1 excluded)
@@ -10,7 +10,7 @@
 addappid(2416450, 1, "56df9203dd3706f1816684fd80aec6fd14bacaf541f8274f7d84eb9ae924b04e") -- MOUSE: P.I. For Hire
 -- MAIN APP DEPOTS
 addappid(2416451, 1, "c52f8369321c8357293962eacf7c7f416c2ea912c3d2640703880a12c964732a") -- Depot 2416451
-setManifestid(2416451, "5026102219755492356", 10477983001)
+setManifestid(2416451, "677879456208603530", 10477976073)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "3514306556860204959", 39590283)
@@ -23,4 +23,4 @@ addappid(3879491, 1, "a609219532d6690630d1cccd2eb190817cca2d15d8380c0d3ba2bb1d91
 setManifestid(3879491, "6434545354655347775", 6269067)
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
--- addappid(3912890) -- MOUSE: P.I. For Hire Story DLC (unreleased)
+-- addappid(3912890) -- DLC 3912890 (unreleased)
