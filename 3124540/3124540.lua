@@ -1,6 +1,6 @@
 -- 3124540's Lua and Manifest Created by Hubcap Manifest
 -- Far Far West
--- Created: June 05, 2026 at 11:59:39 EDT
+-- Created: June 18, 2026 at 04:42:27 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 3
 -- Total DLCs: 0
@@ -10,7 +10,7 @@
 addappid(3124540, 1, "b9610a314958b1d24933e97333fb3aa962be0fff18935d44affb1a6619a0120b") -- Far Far West
 -- MAIN APP DEPOTS
 addappid(3124541, 1, "c09a55a6a88c0a10b672b6f544431641dafaf34a4f082c4798b3de9a59061cac") -- Depot 3124541
-setManifestid(3124541, "1460921756045947360", 5687989573)
+setManifestid(3124541, "1776944913843094159", 5814827867)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "3514306556860204959", 39590283)
