@@ -1,6 +1,6 @@
 -- 2300320's Lua and Manifest Created by Hubcap Manifest
 -- Farming Simulator 25
--- Created: June 28, 2026 at 02:51:28 EDT
+-- Created: June 30, 2026 at 05:52:26 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 35
 -- Total DLCs: 12 (1 excluded)
@@ -97,13 +97,13 @@ addappid(4348790, 1, "057b03766cf1beaefd052d018f8e29d180a83a7ba2db94f80b1b327c8e
 setManifestid(4348790, "2111753178596610231", 505103904)
 -- Farming Simulator 25 Emergency Pack (AppID: 4651570)
 addappid(4651570)
-addappid(4651570, 1, "032b8d74bf5fb219023587fa1f8aee8fbb1fc7b10e97fc023889418dd76e1459") -- Farming Simulator 25 Emergency Pack - Depot 4651570
+addappid(4651570, 1, "01db07db648105515fd656c7dba1789dab4308b0faeeb1c1ab9b69d3376cbd6e") -- Farming Simulator 25 Emergency Pack - Depot 4651570
 setManifestid(4651570, "1302160996874873379", 503222848)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(2981100) -- Farming Simulator 25 Year 1 Season Pass
 addappid(3453810) -- Farming Simulator 25 Year 2 Season Pass
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
--- addappid(4348800) -- DLC 4348800 (unreleased)
+-- addappid(4348800) -- Farming Simulator 25: SKY Agriculture Pack (unreleased)
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(4664870) -- Depot 4664870 (empty depot)
