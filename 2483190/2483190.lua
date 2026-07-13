@@ -1,19 +1,19 @@
 -- 2483190's Lua and Manifest Created by Hubcap Manifest
 -- Forza Horizon 6
--- Created: June 27, 2026 at 03:37:51 EDT
+-- Created: July 13, 2026 at 14:06:31 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 3
--- Total DLCs: 18 (3 excluded)
+-- Total DLCs: 20 (3 excluded)
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
 addappid(2483190, 1, "bca2f0f9973d929c2c6bae884058b8bf7934e9ecc8ff34d584450dfbb3215040") -- Forza Horizon 6
 -- MAIN APP DEPOTS
 addappid(2483191, 1, "f2a09f0a31b4df681ec0d2d572f368dfa4cd6c37ae67ebdfd591cfbe1334fcd9") -- Depot 2483191
-setManifestid(2483191, "8528223014919165744", 167126368613)
+setManifestid(2483191, "2541360848233493756", 167216227751)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
-setManifestid(228989, "3514306556860204959", 39590283)
+setManifestid(228989, "5753583882400741046", 25674515)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
 setManifestid(228990, "1829726630299308803", 102931551)
 -- DLCS WITHOUT DEDICATED DEPOTS
@@ -29,12 +29,14 @@ addappid(4439820) -- Forza Horizon 6 1972 Datsun 269 Attacking the Clock Racing 
 addappid(4439830) -- Forza Horizon 6 2008 Honda Civic Type R (FD2)
 addappid(4439840) -- Forza Horizon 6 2023 Audi R8 Coup V10 GT RWD
 addappid(4439890) -- Forza Horizon 6 1974 Mazda 123 Mad Mike 808 Wagon FURSTY
+addappid(4439900) -- Forza Horizon 6 2023 Toyota GR Corolla
 addappid(4440380) -- Forza Horizon 6 VIP Membership
 addappid(4444140) -- Forza Horizon 6 TBDS2
 addappid(4444150) -- Forza Horizon 6 1962 Peel P50 Trolli Edition
 addappid(4520350) -- Forza Horizon 6 Expansions Bundle
-addappid(4520360) -- Forza Horizon 6 Premium Upgrade Bundle
+addappid(4520360) -- Forza Horizon 6 Premium Upgrade
 addappid(4562050) -- Forza Horizon 6 Crunchyroll Voucher
+addappid(4610350) -- Forza Horizon 6 1998 Nissan Skyline GT-R 40th Anniversary
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
 -- addappid(4439240) -- DLC 4439240 (unreleased)
