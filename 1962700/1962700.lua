@@ -1,6 +1,6 @@
 -- 1962700's Lua and Manifest Created by Hubcap Manifest
 -- Subnautica 2
--- Created: July 08, 2026 at 11:07:12 EDT
+-- Created: July 14, 2026 at 11:52:39 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
 -- Total DLCs: 0
@@ -10,7 +10,7 @@
 addappid(1962700, 1, "f1218dc455570758f1829f86bbfab5e00806e8a4063b13c786c37ff641e8053f") -- Subnautica 2
 -- MAIN APP DEPOTS
 addappid(1962701, 1, "96feb03fc707b975cf8271da4659fdb16c14c4b1a5c5bf8f94bd66e39edd4d96") -- Depot 1962701
-setManifestid(1962701, "9075255258717112216", 15378861443)
+setManifestid(1962701, "2045494873371530057", 15377792227)
 -- SHARED DEPOTS (from other apps)
 addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
 setManifestid(228988, "6645201662696499616", 29212173)
