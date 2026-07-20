@@ -1,26 +1,26 @@
--- 454650's Lua and Manifest Created by Morrenus
+-- 454650's Lua and Manifest Created by Hubcap Manifest
 -- DRAGON BALL XENOVERSE 2
--- Created: December 17, 2025 at 07:40:37 EST
--- Website: https://manifest.morrenus.xyz/
+-- Created: July 11, 2026 at 10:28:03 EDT
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
--- Total DLCs: 36
+-- Total DLCs: 37
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
-addappid(454650) -- DRAGON BALL XENOVERSE 2
+addappid(454650, 1, "a0b608554d4fef2d5ac053ce6fd13408cef28626ddcf7198955127517ce39baa") -- DRAGON BALL XENOVERSE 2
 -- MAIN APP DEPOTS
 addappid(454651, 1, "f42c03be492cf6df28782bcf7630521712bb5425d268fcfc599731056ec1a21c") -- SVAC10 Content
---setManifestid(454651, "7238901667150908628", 37649783213)
+setManifestid(454651, "8252696592025442396", 39474333363)
 -- SHARED DEPOTS (from other apps)
 addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
---setManifestid(228986, "8782296191957114623", 29759921)
+setManifestid(228986, "8782296191957114623", 29759921)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
---setManifestid(228990, "1829726630299308803", 102931551)
+setManifestid(228990, "1829726630299308803", 102931551)
 -- DLCS WITH DEDICATED DEPOTS
 -- DRAGON BALL XENOVERSE 2 - Steve Aoki Pack (AppID: 540070)
 addappid(540070)
 addappid(540070, 1, "3fe54a572bc1b0c0f9f13f3aa0d468cb56bb0faee8eb10df6a992c161943cc21") -- DRAGON BALL XENOVERSE 2 - Steve Aoki Pack - DRAGON BALL Xenoverse 2 - Steve Aoki Pack (540070) Depot
---setManifestid(540070, "5501846961741041819", 11792330)
+setManifestid(540070, "5501846961741041819", 11792330)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(507510) -- DRAGON BALL XENOVERSE 2 - Super Pass
 addappid(508400) -- DRAGON BALL XENOVERSE 2 - Super Pack 1
@@ -58,4 +58,5 @@ addappid(3188680) -- DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 2
 addappid(3387210) -- DRAGON BALL XENOVERSE 2 - Dragon Ball DAIMA Pack
 addappid(3581800) -- DRAGON BALL XENOVERSE 2 - Time Patrol Support Pack
 addappid(3839310) -- DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 3
+addappid(3905260) -- DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 4
 addappid(3905290) -- DRAGON BALL XENOVERSE 2 - FUTURE SAGA Pack Set
