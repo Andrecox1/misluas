@@ -1,9 +1,9 @@
 -- 2483190's Lua and Manifest Created by Hubcap Manifest
 -- Forza Horizon 6
--- Created: July 20, 2026 at 13:09:13 EDT
+-- Created: July 25, 2026 at 04:00:14 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 3
--- Total DLCs: 22 (2 excluded)
+-- Total DLCs: 23 (2 excluded)
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
@@ -39,6 +39,7 @@ addappid(4520350) -- Forza Horizon 6 Expansions Bundle
 addappid(4520360) -- Forza Horizon 6 Premium Upgrade
 addappid(4562050) -- Forza Horizon 6 Crunchyroll Voucher
 addappid(4610350) -- Forza Horizon 6 1998 Nissan Skyline GT-R 40th Anniversary
+addappid(4797340) -- Forza Horizon 6 1972 Nissan Patrol
 addappid(4797360) -- Forza Horizon 6 2003 Aston Martin DB7 GT
 -- EXCLUDED DLCS:
 -- UNRELEASED DLCS (COMMENTED OUT)
