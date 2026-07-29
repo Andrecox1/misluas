@@ -1,6 +1,6 @@
 -- 2416450's Lua and Manifest Created by Hubcap Manifest
 -- MOUSE: P.I. For Hire
--- Created: July 09, 2026 at 02:29:45 EDT
+-- Created: July 27, 2026 at 02:32:06 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
 -- Total DLCs: 1 (1 excluded)
@@ -10,7 +10,7 @@
 addappid(2416450, 1, "56df9203dd3706f1816684fd80aec6fd14bacaf541f8274f7d84eb9ae924b04e") -- MOUSE: P.I. For Hire
 -- MAIN APP DEPOTS
 addappid(2416451, 1, "c52f8369321c8357293962eacf7c7f416c2ea912c3d2640703880a12c964732a") -- Depot 2416451
-setManifestid(2416451, "7328998315841231589", 10416797330)
+setManifestid(2416451, "2128960706194476396", 10416811298)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
