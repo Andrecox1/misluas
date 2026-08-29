@@ -1,6 +1,6 @@
 -- 3768760's Lua and Manifest Created by Hubcap Manifest
 -- 007 First Light
--- Created: July 24, 2026 at 05:10:43 EDT
+-- Created: August 28, 2026 at 04:03:27 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 2
 -- Total DLCs: 21
@@ -10,7 +10,7 @@
 addappid(3768760, 1, "6f7c66b16f0ee1cfe2e337a85cf54359c812b65f322a21fbd1c9725197e60062") -- 007 First Light
 -- MAIN APP DEPOTS
 addappid(3768761, 1, "8284c5e8921ec5acbe53f4d45af0260905841dc698ca179dd218ce5a2657ef09") -- Depot 3768761
-setManifestid(3768761, "1935539906930337019", 56937023958)
+setManifestid(3768761, "3282166900805425338", 56942139438)
 -- SHARED DEPOTS (from other apps)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
