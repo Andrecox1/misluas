@@ -1,6 +1,6 @@
 -- 1174180's Lua and Manifest Created by Hubcap Manifest
 -- Red Dead Redemption 2
--- Created: July 10, 2026 at 06:01:03 EDT
+-- Created: September 03, 2026 at 09:23:40 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 9
 -- Total DLCs: 2
@@ -27,7 +27,7 @@ setManifestid(228987, "4302102680580581867", 29664201)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
 setManifestid(228990, "1829726630299308803", 102931551)
 addappid(1899671, 1, "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b") -- RGL/SC Content (Shared from App 1899670)
-setManifestid(1899671, "1378788310039702778", 239518253)
+setManifestid(1899671, "3914969219305676290", 239826989)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(1190050) -- Red Dead Redemption 2 Special Edition Content
 addtoken(1190050, "4679005205774328491")
