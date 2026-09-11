@@ -1,28 +1,26 @@
--- 2928600's Lua and Manifest Created by Morrenus
+-- 2928600's Lua and Manifest Created by Hubcap Manifest
 -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
--- Created: March 11, 2026 at 20:41:13 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 4
--- Total DLCs: 13
+-- Created: September 11, 2026 at 12:21:14 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 3
+-- Total DLCs: 15
 -- Shared Depots: 2
 -- Blacklisted Depots: 1
 --   Depot 2928602: Blacklisted
 
 -- MAIN APPLICATION
-addappid(2928600) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
+addappid(2928600, 1, "807789f17265552bc99f65b0f9ee33fa423612ebe7351c615de0f38fbadda5fd") -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
 -- MAIN APP DEPOTS
 addappid(2928601, 1, "486448df6cd95d0d663ae6dbc0dc5cb7ed590875a2a7481fee25ffe7572b60fc") -- Depot 2928601
---setManifestid(2928601, "7165090111176508253", 26726329145)
+setManifestid(2928601, "8081071784331207732", 26851857353)
 -- SHARED DEPOTS (from other apps)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
---setManifestid(228989, "3514306556860204959", 39590283)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
---setManifestid(228990, "1829726630299308803", 102931551)
+setManifestid(228990, "1829726630299308803", 102931551)
 -- DLCS WITH DEDICATED DEPOTS
 -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Demon Slayer Kimetsu no Yaiba Anime Songs  BGM Pack (AppID: 3653840)
 addappid(3653840)
 addappid(3653840, 1, "98e43fa413cbb9b5ae52de2d277b986fa7456efd3d26154adf627954cd6f2fca") -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Demon Slayer Kimetsu no Yaiba Anime Songs  BGM Pack - Depot 3653840
---setManifestid(3653840, "5802061408931620269", 46214647)
+setManifestid(3653840, "5802061408931620269", 46214647)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(3371870) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Battle Attire Tanjiros Kimono (Entertainment District), Inosukes Kimono (Entertainment District), and Uzuis Shinobi Attire
 addappid(3371880) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Character Unlock Keys Sanemi Shinazugawa, Obanai Iguro, and Gyomei Himejima
@@ -35,4 +33,6 @@ addappid(4010490) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Z
 addappid(4010500) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Akaza (Infinity Castle) Character Pack
 addappid(4010510) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Tanjiro Kamado (Infinity Castle) Character Pack
 addappid(4010530) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Giyu Tomioka (Infinity Castle) Character Pack
+addappid(4010540) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Shinobu Kocho (Infinity Castle) Character Pack
+addappid(4010550) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Doma Character Pack
 addappid(4010560) -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Demon Slayer Kimetsu no Yaiba Infinity Castle Character Pass
