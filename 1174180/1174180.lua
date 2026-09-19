@@ -1,6 +1,6 @@
 -- 1174180's Lua and Manifest Created by Hubcap Manifest
 -- Red Dead Redemption 2
--- Created: September 03, 2026 at 09:23:40 EDT
+-- Created: September 18, 2026 at 21:19:42 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 9
 -- Total DLCs: 2
