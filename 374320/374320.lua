@@ -1,6 +1,6 @@
 -- 374320's Lua and Manifest Created by Hubcap Manifest
 -- DARK SOULS™ III
--- Created: December 08, 2025 at 21:59:28 EST
+-- Created: September 18, 2026 at 11:22:15 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 7
 -- Total DLCs: 4 (1 excluded)
