@@ -1,9 +1,9 @@
 -- 3010850's Lua and Manifest Created by Hubcap Manifest
 -- Gears of War: E-Day
--- Created: October 01, 2026 at 17:16:34 EDT
+-- Created: October 06, 2026 at 09:02:06 EDT
 -- Website: https://hubcapmanifest.com/
--- Build: 25599725 (public branch)
--- Build Date: September 29, 2026 at 06:04:20 EDT (1790676260)
+-- Build: 25724756 (public branch)
+-- Build Date: October 05, 2026 at 06:17:55 EDT (1791195475)
 -- Total Depots: 26
 -- Total DLCs: 7
 -- Shared Depots: 3
@@ -12,7 +12,7 @@
 addappid(3010850, 1, "f05d8ccc4c0840cb8b71e6e8cf2f958b1d6e51834d729e5d0bc60e0ca4e7cc73") -- Gears of War: E-Day
 -- MAIN APP DEPOTS
 addappid(3010851, 1, "65989b880d683f38c64d6757a5d1d3d59032ecf11ed695e993a7bf85b3c5a8b3") -- Depot 3010851
-setManifestid(3010851, "2876369576045283215", 115950507156)
+setManifestid(3010851, "589946541028810466", 115950866691)
 addappid(3010852, 1, "8c99068e14cf054c7c983711f73ca73fcefd995b0add04d25face3431b782599") -- Depot 3010852
 setManifestid(3010852, "1623146891674219196", 1127452655)
 addappid(3010853, 1, "c546deaa1b2237658133e1f6b4ea3d2b85ccd8a445c4b80576f5cb49a4506b2c") -- Depot 3010853
