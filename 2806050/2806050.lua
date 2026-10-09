@@ -1,13 +1,16 @@
 -- 2806050's Lua and Manifest Created by Hubcap Manifest
 -- Halo: Campaign Evolved
--- Created: August 17, 2026 at 14:02:25 EDT
+-- Created: September 20, 2026 at 15:44:15 EDT
 -- Website: https://hubcapmanifest.com/
+-- Build: 24670874 (public branch)
+-- Build Date: August 11, 2026 at 07:11:40 EDT (1786446700)
 -- Total Depots: 4
 -- Total DLCs: 3
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
 addappid(2806050, 1, "ed813e8e735c9a37bc3698804c2f49a73f4cd0ece4535e2b25d9f2f069abfe8e") -- Halo: Campaign Evolved
+addtoken(2806050, "6040191622027934548")
 -- MAIN APP DEPOTS
 addappid(2806051, 1, "400618d2330230a74b26331220f2aed43a92bf65eb23147779810f48f893c6e5") -- Depot 2806051
 setManifestid(2806051, "5851394981381786761", 76660301334)
