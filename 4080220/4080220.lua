@@ -1,6 +1,6 @@
 -- 4080220's Lua and Manifest Created by Hubcap Manifest
 -- EA SPORTS FC™ 27
--- Created: October 08, 2026 at 15:04:05 EDT
+-- Created: October 13, 2026 at 13:43:19 EDT
 -- Website: https://hubcapmanifest.com/
 -- Build: 25726320 (public branch)
 -- Build Date: October 05, 2026 at 07:51:33 EDT (1791201093)
@@ -59,7 +59,7 @@ setManifestid(4160764, "7785508732638708044", 1642486739)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
 setManifestid(228989, "5753583882400741046", 25674515)
 addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") -- Depot 3340991 (Shared from App 3340990)
-setManifestid(3340991, "1268308124670351695", 253004087)
+setManifestid(3340991, "6121112214567893698", 253002959)
 addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6") -- Depot 3893181 (Shared from App 3893180)
 setManifestid(3893181, "5989814028459339160", 351890657)
 -- DLCS WITHOUT DEDICATED DEPOTS
